@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SearchTest</string>
+    <string name="text_title">title</string>
+    <string name="text_content">content</string>
+    <string name="text_example">ตัวอย่างการดึงข้อมูล</string>
+    <string name="text_search">ค้นหา</string>
+    <string name="text_hint_search">ค้นหาจากชื่อ</string>
+</resources>
